@@ -1,0 +1,9 @@
+#website-container {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+
+#page-content {
+    flex: 1;
+}
