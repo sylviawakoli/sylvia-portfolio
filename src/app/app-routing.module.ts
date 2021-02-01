@@ -4,7 +4,6 @@ import { AboutComponent } from './about/about.component';
 import { ContactsComponent } from './contacts/contacts.component';
 import { HomeComponent } from './home/home.component';
 import { MySkillsComponent } from './my-skills/my-skills.component';
-import { MySkilsComponent } from './my-skils/my-skils.component';
 import { MyWorkComponent } from './my-work/my-work.component';
 
 const routes: Routes = [
